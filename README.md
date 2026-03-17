@@ -1,2 +1,0 @@
-# simba
-sk
